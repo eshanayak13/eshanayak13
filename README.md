@@ -1,4 +1,4 @@
-# Hi there, I'm Esha Nayak 👋
+# Hi there, I'm Esha Nayak 
 
 ### 🛠️ IT Support Specialist | Cybersecurity & Networking Student
 Highly motivated IT professional with hands-on experience in enterprise IT operations, hardware support, asset management, and compliance-related workflows. Passionate about troubleshooting, keeping data secure, and maintaining data integrity.
