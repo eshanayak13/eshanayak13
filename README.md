@@ -48,8 +48,3 @@ Highly motivated IT professional with hands-on experience in enterprise IT opera
 - **Email:** esnaya01@wsc.edu
 
 
-<!-- GitHub Stats Badges (Optional layout enhancement) -->
-<p align="left">
-  <img src="https://vercel.app" alt="Esha's GitHub Stats" />
-</p>
-
